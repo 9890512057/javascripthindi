@@ -32,3 +32,5 @@ console.log(email.split('@'));
 console.log(name.replace(" ","Suresh"));
 console.log(name.toUpperCase());
 console.log(name.toLowerCase());
+
+console.log(` i am ${name} my email is ${email}`);
